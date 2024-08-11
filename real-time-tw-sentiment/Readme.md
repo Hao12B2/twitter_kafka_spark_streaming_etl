@@ -16,7 +16,7 @@ The project is built using the following components:
 - **PySpark**: An Python API for Apache Spark processesing the streaming data from Kafka.
 
 - **MongoDB**: Stores the processed sentiment data.
-![architecture](/images/Architecture.png)
+![architecture](/real-time-tw-sentiment/images/Architecture.png)
 ---
 
 #### Features
