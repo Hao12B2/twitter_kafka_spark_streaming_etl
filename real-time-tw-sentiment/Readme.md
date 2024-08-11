@@ -1,4 +1,4 @@
-## Real-Time Twitter Sentiment Analysis Using Kafka, Spark (MLLib & Streaming), MongoDB.
+## Real-Time Twitter Sentiment Analysis Using Kafka, Spark (MLLib & Streaming) and MongoDB.
 ---
 
 #### Overview
